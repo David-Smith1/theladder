@@ -1,0 +1,15 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  top: one
+  mid: one
+  jg: one
+  bot: one
+  sup: one
+
+two:
+  top: two
+  mid: two
+  jg: two
+  bot: two
+  sup: two

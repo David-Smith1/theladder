@@ -2,10 +2,8 @@
 
 one:
   name: MyString
-  position: 1
   macro_score: 1
 
 two:
   name: MyString
-  position: 1
   macro_score: 1
